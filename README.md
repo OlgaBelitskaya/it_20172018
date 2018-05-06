@@ -1,6 +1,9 @@
-# Exam Variants
 
-## 2017. &nbsp; IT.  &nbsp; [10  &nbsp; Variants](https://drive.google.com/file/d/0B6696ckkWj_zS2ptblAxNERHZzQ/view)
+# Solutions for IT Exam Variants
+
+## 2017
+
+### [ЕГЭ-2017. Информатика. 10 тренировочных вариантов. Ушаков Д.М](https://drive.google.com/file/d/0B6696ckkWj_zS2ptblAxNERHZzQ/view)
 
 ### Variant 1:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant1.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant1.html)
 
@@ -22,6 +25,43 @@
 
 ### Variant 10: &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant10.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant10.html)
 
-## 2017. &nbsp; IT. &nbsp; Different Sources
 
-### Variant 1702:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant1702.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant1702.html)
+### Variant Д. В. Богданов 1702:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant1702.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant1702.html)
+
+## 2016
+
+### Variant СтатГрад ИН 10403:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/statgrad_in_10403_solutions.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/statgrad_in_10403_solutions.html)
+
+
+```python
+%%html
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto&effect=3d|scuffed-steel|static|canvas-print|');  
+a, h1 h2, h3, h4, div.text_cell_render {font-family: 'Roboto'; text-shadow: 4px 4px 4px #aaa;} 
+                                       
+h2, h3, div.output_prompt, div.output_area pre {color: slategray;}
+h1, h4, div.input_prompt {color: steelblue;}
+a, div.output_subarea {color: darkblue;} 
+     
+span {text-shadow: 4px 4px 4px #aaa;}    
+      
+body, div.output_stderr pre{background-color: aliceblue;}                  
+div.output_stderr {background-color: slategray;}                        
+</style>
+```
+
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto&effect=3d|scuffed-steel|static|canvas-print|');  
+a, h1 h2, h3, h4, div.text_cell_render {font-family: 'Roboto'; text-shadow: 4px 4px 4px #aaa;} 
+                                       
+h2, h3, div.output_prompt, div.output_area pre {color: slategray;}
+h1, h4, div.input_prompt {color: steelblue;}
+a, div.output_subarea {color: darkblue;} 
+     
+span {text-shadow: 4px 4px 4px #aaa;}    
+      
+body, div.output_stderr pre{background-color: aliceblue;}                  
+div.output_stderr {background-color: slategray;}                        
+</style>
+
