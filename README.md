@@ -5,7 +5,9 @@
 
 ### [ЕГЭ-2017. Информатика. 10 тренировочных вариантов. Ушаков Д.М](https://drive.google.com/file/d/0B6696ckkWj_zS2ptblAxNERHZzQ/view)
 
-### Variant 1:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant1.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant1.html)
+### Variant 1: 
+#### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant1.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant1.html)
+#### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant1_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant1_R.html)
 
 ### Variant 2:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant2.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant2.html)
 
