@@ -21,7 +21,9 @@
 #### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant4.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant4.html)
 #### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant4_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant4_R.html)
 
-### Variant 5:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant5.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant5.html)
+### Variant 5:  
+#### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant5.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant5.html)
+#### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant5_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant5_R.html)
 
 ### Variant 6:  &nbsp; [Notebook &#x1F310; &nbsp;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant6.ipynb) [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant6.html)
 
@@ -34,11 +36,13 @@
 ### Variant 10: &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant10.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant10.html)
 
 
-### Variant Д. В. Богданов 1702:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant1702.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant1702.html)
+### Д. В. Богданов 
+
+### Variant 1702:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant1702.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant1702.html)
 
 ## 2016
-
-### Variant СтатГрад ИН 10403:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/statgrad_in_10403_solutions.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/statgrad_in_10403_solutions.html)
+### СтатГрад
+### Variant ИН 10403:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/statgrad_in_10403_solutions.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/statgrad_in_10403_solutions.html)
 
 
 ```python
