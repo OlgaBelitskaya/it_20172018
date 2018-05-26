@@ -25,9 +25,13 @@
 #### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant5.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant5.html)
 #### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant5_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant5_R.html)
 
-### Variant 6:  &nbsp; [Notebook &#x1F310; &nbsp;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant6.ipynb) [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant6.html)
+### Variant 6:  &nbsp; 
+#### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant6.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant6.html)
+#### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant6_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant6_R.html)
 
-### Variant 7:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant7.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant7.html)
+### Variant 7:  
+#### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant7.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant7.html)
+#### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant7_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant7_R.html)
 
 ### Variant 8:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant8.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant8.html)
 
