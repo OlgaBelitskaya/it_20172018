@@ -33,12 +33,17 @@
 #### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant7.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant7.html)
 #### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant7_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant7_R.html)
 
-### Variant 8:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant8.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant8.html)
+### Variant 8: 
+#### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant8.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant8.html)
+#### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant8_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant8_R.html)
 
-### Variant 9:  &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant9.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant9.html)
+### Variant 9:  &nbsp; 
+#### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant9.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant9.html)
+#### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant9_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant9_R.html)
 
-### Variant 10: &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant10.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant10.html)
-
+### Variant 10: &nbsp; 
+#### &nbsp; &nbsp; Python &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant10.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant10.html)
+#### &nbsp; &nbsp; R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Notebook &#x1F310;](https://github.com/OlgaBelitskaya/it_20172018/blob/master/2017_Variant10_R.ipynb) &nbsp; [Web &#x1F310;](https://olgabelitskaya.github.io/2017_Variant10_R.html)
 
 ### Д. В. Богданов 
 
